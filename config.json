@@ -1,0 +1,11 @@
+{
+  "thumbnail": {
+    "enabled": true,
+    "url": "https://raw.githubusercontent.com/zzz615020/zzz615020-embed/main/embed-2/thumbnail/thumbnail.gif"
+  },
+  "footer": {
+    "enabled": true,
+    "url": "https://raw.githubusercontent.com/zzz615020/zzz615020-embed/main/embed-2/footer/footer.png"
+  },
+  "web_1": "https://discord.com/api/webhooks/1339113171188846622/6KgyU6LNAhavtVLDK4229Tyf6XBO-qklmcR9QljPbuYckbGZ0xw4Kq4xa45RM4cUWBnp"
+}
